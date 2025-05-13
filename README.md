@@ -20,4 +20,4 @@ Or view it online: [dbdiagram.io ERD](https://dbdiagram.io/d/ER-Diagram-68232a6a
 
 - `clinic_booking_system.sql`: SQL script with table definitions and sample data
 - `README.md`: Project overview and setup instructions
-- `images/clinic_erd.png`: ER diagram
+- `images/clinic-erd.png`: ER diagram
