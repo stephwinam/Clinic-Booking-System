@@ -12,7 +12,7 @@ A simple Clinic Booking System built using MySQL. It allows storing and managing
 
 ## 🔗 ERD Screenshot
 
-![Clinic ERD](images/clinic_erd.png)
+![Clinic ERD](./images/clinic-erd.png)
 
 Or view it online: [dbdiagram.io ERD](https://dbdiagram.io/d/ER-Diagram-68232a6a5b2fc4582f615f43)
 
